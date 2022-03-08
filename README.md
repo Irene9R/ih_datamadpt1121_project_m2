@@ -65,7 +65,7 @@ Insights:
 2.	The cities with the highest amount of diamonds and **total sales** are Surat, Kimberly and Antwerp. 
 3.	In conclusion, I found that diamonds with higher quality in all the parameters have higher average prices when compared to others within the same carat group. 
 
-For me, the main conclusion that I've obtained by working with this diamonds database is that the quality of a diamond is explained by different features that are objectively measure by professionals. Some of them are more important than others. This is the case of Carats: with carats, the bigger the more expensive. But this only represents the size of the diamond, not the quality in terms of the others features.
+For me, the main conclusion that I've obtained by working with this diamonds database is that the quality of a diamond is explained by different features that are objectively measured by professionals. Some of them are more important than others. This is the thing with carats: the bigger, the more expensive. But this only represents the size of the diamond, not the quality in terms of the other features.
 
 
 ## **and remember: if you don't have a diamond, YOU CAN'T SIT WITH US!!!.** ##
